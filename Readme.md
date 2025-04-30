@@ -62,7 +62,3 @@ This project demonstrates Continuous Delivery by automating the creation and dep
    - Name it **DOCKERTOKEN** and paste the token value
 
 ---
-
-## 📤 Submission Details
-🔗 **GitHub Repository URL:** [https://github.com/diwish345/fastapi-app](https://github.com/diwish345/fastapi-app)
-🌍 **Docker Hub Image URL:** [https://hub.docker.com/r/diwish345/fastapi-app](https://hub.docker.com/r/diwish345/fastapi-app)
